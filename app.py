@@ -1,6 +1,5 @@
 # from crypt import methods
 import pickle
-from typing import final
 from flask import Flask, render_template,request,app,jsonify,url_for
 import numpy as np
 import pandas as pd
